@@ -1,0 +1,16 @@
+# Pliki tymczasowe i wynikowe kompilacji MPLAB X
+build/
+dist/
+debug/
+disassembly/
+queuelogs/
+*.hex
+*.elf
+*.cof
+*.map
+*.o
+*.d
+*.p1
+
+# Prywatne ustawienia IDE użytkownika
+nbproject/private/
